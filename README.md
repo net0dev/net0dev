@@ -8,14 +8,12 @@ Sou um desenvolvedor iniciante com interesse em back-end e foco no aprimoramento
 
 
 
+<marquee behavior="scroll" direction="left" scrollamount="6">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+</marquee>
 
-<p align="center">
-
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-</p>
 
 
 ## Contato
