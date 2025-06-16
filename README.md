@@ -7,11 +7,12 @@ Sou um desenvolvedor iniciante com interesse em back-end e foco no aprimoramento
 ## Linguagens e Ferramentas
 
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 
 <p align="center">
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
