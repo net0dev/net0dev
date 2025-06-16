@@ -7,7 +7,6 @@ Sou um desenvolvedor iniciante com interesse em back-end e foco no aprimoramento
 ## Linguagens e Ferramentas
 
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 
 <p align="center">
