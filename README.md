@@ -8,7 +8,7 @@ Sou um desenvolvedor iniciante com interesse em back-end e foco no aprimoramento
 
 
 
-<marquee behavior="scroll" direction="left" scrollamount="36">
+<marquee behavior="scroll" direction="left" scrollamount="22">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java" />
