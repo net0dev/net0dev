@@ -8,11 +8,11 @@ Sou um desenvolvedor iniciante com interesse em back-end e foco no aprimoramento
 
 
 
-<marquee behavior="scroll" direction="left" scrollamount="26
-  ">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<marquee behavior="scroll" direction="left" scrollamount="36">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java" />
+
 </marquee>
 
 
