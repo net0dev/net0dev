@@ -6,7 +6,7 @@ Sou um desenvolvedor iniciante com interesse em back-end e foco no aprimoramento
 
 ## Linguagens e Ferramentas
 
-## 🚀 Languages I Use
+
 
 <marquee behavior="scroll" direction="left" scrollamount="6">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java" />
