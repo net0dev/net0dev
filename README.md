@@ -6,13 +6,13 @@ Sou um desenvolvedor iniciante com interesse em back-end e foco no aprimoramento
 
 ## Linguagens e Ferramentas
 
-<p align="left">
+## 🚀 Languages I Use
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-
-
-</p>
+<marquee behavior="scroll" direction="left" scrollamount="6">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+</marquee>
 
 
 ## Contato
