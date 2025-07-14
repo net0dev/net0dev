@@ -8,11 +8,11 @@ I'm a beginner developer interested in backend and focused on learning skills wi
 ## 🛠️Languages & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" style="margin-left: 20px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="60" style="margin-left: 20px;">
-  <img src="https://www.svgrepo.com/download/303251/mysql-logo.svg" height="60" style="margin-left: 20px;">
-  <img src="https://www.svgrepo.com/download/452210/git.svg" height="60" style="margin-left: 20px;">
-  <img src="https://www.svgrepo.com/download/449764/github.svg" height="60" style="margin-left: 20px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" style="margin-left: 20px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" style="margin-left: 20px;">
+  <img src="https://www.svgrepo.com/download/303251/mysql-logo.svg" height="40" style="margin-left: 20px;">
+  <img src="https://www.svgrepo.com/download/452210/git.svg" height="40" style="margin-left: 20px;">
+  <img src="https://www.svgrepo.com/download/449764/github.svg" height="40" style="margin-left: 20px;">
 </p>
 
 
