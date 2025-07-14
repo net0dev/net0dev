@@ -4,7 +4,7 @@
 
 I'm a beginner developer interested in backend and focused on learning skills with robust programming languages and frameworks.
 
-## 🛠️Linguagens e Ferramentas
+## 🛠️Languages & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" style="margin-left: 20px;">
@@ -17,5 +17,5 @@ I'm a beginner developer interested in backend and focused on learning skills wi
 
 
 
-## Contato
+## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/antonio-neto-1222012b9)
