@@ -6,7 +6,7 @@ Sou um desenvolvedor iniciante com interesse em back-end e foco no aprimoramento
 
 ## Linguagens e Ferramentas
 
-<marquee behavior="left" direction="left" scrollamount="22">
+<marquee behavior="right" direction="left" scrollamount="22">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://www.svgrepo.com/download/303251/mysql-logo.svg" height="60 alt="Mysql" />
