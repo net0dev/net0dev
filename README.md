@@ -9,11 +9,11 @@ Sou um desenvolvedor iniciante com interesse em back-end e foco no aprimoramento
 <h2 align="left">🛠️ Linguagens e Ferramentas</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" style="margin-left: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" style="margin-left: 10px;">
-  <img src="https://www.svgrepo.com/download/303251/mysql-logo.svg" height="40" style="margin-left: 10px;">
-  <img src="https://www.svgrepo.com/download/452210/git.svg" height="40" style="margin-left: 10px;">
-  <img src="https://www.svgrepo.com/download/449764/github.svg" height="40" style="margin-left: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" style="margin-left: 20px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="60" style="margin-left: 20px;">
+  <img src="https://www.svgrepo.com/download/303251/mysql-logo.svg" height="60" style="margin-left: 20px;">
+  <img src="https://www.svgrepo.com/download/452210/git.svg" height="60" style="margin-left: 20px;">
+  <img src="https://www.svgrepo.com/download/449764/github.svg" height="60" style="margin-left: 20px;">
 </p>
 
 
