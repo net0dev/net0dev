@@ -6,8 +6,6 @@ Sou um desenvolvedor iniciante com interesse em back-end e foco no aprimoramento
 
 ## Linguagens e Ferramentas
 
-<h2 align="left">🛠️ Linguagens e Ferramentas</h2>
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" style="margin-left: 20px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="60" style="margin-left: 20px;">
