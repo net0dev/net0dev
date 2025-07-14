@@ -11,7 +11,7 @@ Sou um desenvolvedor iniciante com interesse em back-end e foco no aprimoramento
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://www.svgrepo.com/download/303251/mysql-logo.svg" height="60 alt="Mysql" />
   <img src="https://www.svgrepo.com/download/452210/git.svg" height="60 alt="Git" />
-  <img src="https://www.svgrepo.com/download/512317/github-142.svg" height="60 alt="Github" />
+  <img src="https://www.svgrepo.com/download/449764/github.svg" height="60 alt="Github" />
   
 </marquee>
 
