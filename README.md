@@ -1,6 +1,7 @@
 # Antonio Neto
 
 **Estudante de Ciência da Computação**
+
 Sou um desenvolvedor iniciante com interesse em back-end e foco no aprimoramento de habilidades com linguagens de programação e estruturas robustas.
 
 ## Linguagens e Ferramentas
