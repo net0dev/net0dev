@@ -7,7 +7,7 @@ I'm a beginner developer interested in backend and focused on learning skills wi
 
 ## 🛠️Languages & Tools
 
-<p align="right">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" style="margin-left: 20px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" style="margin-left: 20px;">
   <img src="https://www.svgrepo.com/download/303251/mysql-logo.svg" height="40" style="margin-left: 20px;">
